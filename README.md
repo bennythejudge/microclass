@@ -1,5 +1,7 @@
 #[Micro](micro.mu) Training for Go Webservices
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/microclass.svg)](https://www.guardrails.io)
+
 To view the slides locally, install Go's `present` tool:
 
 ```
